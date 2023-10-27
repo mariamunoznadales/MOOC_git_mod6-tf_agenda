@@ -1,0 +1,1 @@
+# En esta práctica he clonado el repositorio MOOC_git_mod6-tf_agenda para hacer rebase de los úlimos 3 commits para editar uno de ellos(El teléfono de Mary) y fusionar dos de ellos (El nombre y el teléfono de Eva)
